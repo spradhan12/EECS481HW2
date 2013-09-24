@@ -22,3 +22,10 @@ DOWN KEY: Move Federer paddle down
 
 General:
 ESC: Close window, exit game
+
+
+DOWNLOAD AND BUILD INSTRUCTIONS:
+
+The code can be downloaded at https://github.com/spradhan12/EECS481HW2
+
+The file WindowsGame1 can then be opened in VisualStudio10 and built and run there as a Windows C# solution.
